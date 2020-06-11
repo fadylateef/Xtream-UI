@@ -3,7 +3,7 @@
 # First :
 sudo apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y python-paramiko ; wget --no-check-certificate https://raw.githubusercontent.com/fadylateef/Xtream-UI/master/install.py -O install.py ; sudo python install.py
 # Secound :
-apt-get install e2fsprogs -y && chattr -i /home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb && wget https://github.com/abanobem/Xtream-UI/raw/master/GeoLite2.mmdb -O /home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb && chattr +i /home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb
+apt-get install e2fsprogs -y && chattr -i /home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb && wget https://github.com/fadylateef/Xtream-UI/raw/master/GeoLite2.mmdb -O /home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb && chattr +i /home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb
 # Login INFO :
 http://IP:25500
 , default username and password : admin
